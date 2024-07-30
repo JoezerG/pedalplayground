@@ -8113,19 +8113,19 @@
 		"Image": "cry-baby-dd95fw.png"
 	},
 	{
-			"Brand": "Cry Baby",
-			"Name": "Dimebag Cry Baby from Hell Wah",
-			"Width": 4.73,
-			"Height": 10,
-			"Image": "cry-baby-db01b.png"
-		},
+		"Brand": "Cry Baby",
+		"Name": "Dimebag Cry Baby from Hell Wah",
+		"Width": 4.73,
+		"Height": 10,
+		"Image": "cry-baby-db01b.png"
+	},
 	{
 		"Brand": "Cry Baby",
-	 	"Name": "Jerry Cantrell Rainier Fog Wah",
-	 	"Width": 4,
-	 	"Height": 10,
-	 	"Image": "cry-baby-jc95b.png"
- 	},
+		"Name": "Jerry Cantrell Rainier Fog Wah",
+		"Width": 4,
+		"Height": 10,
+		"Image": "cry-baby-jc95b.png"
+	},
 	{
 		"Brand": "Cry Baby",
 		"Name": "Jimi Hendrix Signature Wah",
@@ -8135,11 +8135,11 @@
 	},
 	{
 		"Brand": "Cry Baby",
-	 	"Name": "Joe Bonamassa Signature Wah",
-	 	"Width": 4,
-	 	"Height": 10,
-	 	"Image": "cry-baby-jb95.png"
- 	},
+		"Name": "Joe Bonamassa Signature Wah",
+		"Width": 4,
+		"Height": 10,
+		"Image": "cry-baby-jb95.png"
+	},
 	{
 		"Brand": "Cry Baby",
 		"Name": "Junior Wah",
@@ -10699,7 +10699,7 @@
 		"Brand": "Dunlop",
 		"Name": "Rotovibe",
 		"Width": 4,
-	 	"Height": 10,
+		"Height": 10,
 		"Image": "dunlop-jd4s.png"
 	},
 	{
@@ -13656,7 +13656,7 @@
 		"Height": 3.68,
 		"Image": "ernie-ball-tap.png"
 	},
- 	{
+	{
 		"Brand": "Ernie Ball",
 		"Name": "Volt",
 		"Width": 3.5,
@@ -16000,49 +16000,49 @@
 		"Width": 3.89,
 		"Height": 9.84,
 		"Image": "g-lab-wowee-wah.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Atlas",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-atlas.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Bacchus",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-bacchus.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Cumulus",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-cumulus.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Eros",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-eros.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Hades",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-hades.png"
- 	},
+	},
 	{
 		"Brand": "Gamma",
 		"Name": "Narcissus",
 		"Width": 2.75,
 		"Height": 4.64,
 		"Image": "gamma-narcissus.png"
- 	},
+	},
 	{
 		"Brand": "Gamechanger Audio",
 		"Name": "Bigsby Pedal",
@@ -22370,7 +22370,7 @@
 		"Width": 4.37,
 		"Height": 3.37,
 		"Image": "khdk-scott-ian-sgt-d.png"
- 	},
+	},
 	{
 		"Brand": "KHDK",
 		"Name": "Unicorn Blood II",
@@ -23891,11 +23891,11 @@
 		"Image": "lovepedal-kanji9.png"
 	},
 	{
-		"Brand":"Lovepedal",
-		"Name":"Rubber Chicken",
-		"Width":2.59,
-		"Height":4.37,
-		"Image":"lovepedal-rubberchicken.png"
+		"Brand": "Lovepedal",
+		"Name": "Rubber Chicken",
+		"Width": 2.59,
+		"Height": 4.37,
+		"Image": "lovepedal-rubberchicken.png"
 	},
 	{
 		"Brand": "Lovepedal",
@@ -28342,7 +28342,7 @@
 		"Height": 4.94,
 		"Image": "mythos-herculean.png"
 	},
-		{
+	{
 		"Brand": "Mythos",
 		"Name": "Herculean Deluxe",
 		"Width": 4.7,
@@ -32115,7 +32115,7 @@
 		"Height": 4.5,
 		"Image": "radial-tonebone-trimode.png"
 	},
- 	{
+	{
 		"Brand": "Radial Engineering",
 		"Name": "Twin-City",
 		"Width": 3.5,
@@ -34632,21 +34632,21 @@
 		"Brand": "Source Audio",
 		"Name": "Soundblox Bass Envelope Filter",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-bass-env.png"
 	},
 	{
 		"Brand": "Source Audio",
 		"Name": "Soundblox Classic Distortion",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-classic.png"
 	},
 	{
 		"Brand": "Source Audio",
 		"Name": "Soundblox Guitar Envelope Filter",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-guitar-env.png"
 	},
 	{
@@ -34660,21 +34660,21 @@
 		"Brand": "Source Audio",
 		"Name": "Soundblox Multiwave Distortion",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-multiwave.png"
 	},
 	{
 		"Brand": "Source Audio",
 		"Name": "Soundblox Tri-Mod Phaser",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-tri-mod-phaser.png"
 	},
 	{
 		"Brand": "Source Audio",
 		"Name": "Soundblox Tri-Mod Wah",
 		"Width": 4,
-		"Height": 7	,
+		"Height": 7,
 		"Image": "source-audio-sb-tri-mod-wah.png"
 	},
 	{
@@ -36378,7 +36378,6 @@
 		"Height": 3.62,
 		"Image": "taylor-a-b-both-box.png"
 	},
-
 	{
 		"Brand": "TC Electronic",
 		"Name": "2290 P Dynamic Digital Delay",
@@ -38821,6 +38820,13 @@
 		"Width": 1.89,
 		"Height": 3.7,
 		"Image": "valeton-fp-10.png"
+	},
+	{
+		"Brand": "Valeton",
+		"Name": "GP-100",
+		"Width": 7.8,
+		"Height": 5.28,
+		"Image": "valeton-gp100.png"
 	},
 	{
 		"Brand": "Valeton",
@@ -42006,7 +42012,7 @@
 		"Width": 5,
 		"Height": 4.1875,
 		"Image": "zeppelin-quaverato.png"
- 	},
+	},
 	{
 		"Brand": "Zoom",
 		"Name": "G1x",
